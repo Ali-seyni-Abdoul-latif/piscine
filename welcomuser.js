@@ -1,2 +1,2 @@
-
- console.log("welcome jhon")
+let userName=("John")
+console.log("welcom",userName);
